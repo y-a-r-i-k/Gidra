@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/styles"/>
+    <qresource prefix="/">
+        <file>style_deafult.qss</file>
+        <file>style_dark.qss</file>
+        <file>login.qss</file>
+        <file>gidra.png</file>
+    </qresource>
+    <qresource prefix="/Languages"/>
+    <qresource prefix="/info"/>
+    <qresource prefix="/manual" lang="en">
+        <file>index.html</file>
+    </qresource>
+    <qresource prefix="/pics">
+        <file>style_deafult.qss</file>
+        <file>gidra.png</file>
+        <file>gidra.jpg</file>
+        <file>gidra.ico</file>
+    </qresource>
+    <qresource prefix="/langs">
+        <file>gidra_en_US.ts</file>
+        <file>gidra_ru_RU.ts</file>
+        <file>gidra_en_US.qm</file>
+        <file>gidra_ru_RU.qm</file>
+    </qresource>
+</RCC>
